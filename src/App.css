@@ -1,0 +1,34 @@
+.col-sm-6 {
+  margin: auto;
+}
+App{
+  background-color: black;
+}
+body {
+  background-color: black !important;
+}
+h4{
+  text-align: center;
+  font-size: 25px;
+  color: aliceblue;
+}
+
+.col-sm-10 {
+  margin: auto;
+  margin-left: 255px;
+}
+
+button, input, optgroup, select, textarea {
+  background-color: whitesmoke;
+}
+.table {
+  margin-top: 70px;
+}
+
+thead{
+  background-color: darkcyan;
+}
+
+.table td, .table th {
+ background-color: darkolivegreen;
+}
